@@ -9,4 +9,8 @@
 	font-size:14px;
 	cursor:pointer;
 	background-color:transparent;
+	background-color:rgba(0, 0, 0, 0);
+}
+.grid-container{
+	background-color:rgba(0, 0, 0, 0);
 }
